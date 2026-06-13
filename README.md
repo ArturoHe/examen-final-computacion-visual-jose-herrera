@@ -27,7 +27,7 @@ Ambos ejercicios demuestran el dominio de herramientas clave de la computación 
 | OpenCV (`cv2`)                | 4.7+                |
 | Matplotlib                    | 3.7+                |
 
-### Ejercicio 2 — Shaders (Unity)
+### Ejercicio 2 — Escena 3D (Unity)
 
 | Dependencia                     | Versión recomendada     |
 | ------------------------------- | ----------------------- |
@@ -127,7 +127,7 @@ Finalmente, la detección de objetos se llevó a cabo mediante segmentación bas
 
 Desde una perspectiva computacional, la solución demuestra cómo técnicas clásicas de visión por computador continúan siendo altamente efectivas cuando se trabaja en escenarios controlados, ofreciendo bajo costo computacional, interpretabilidad y facilidad de implementación en comparación con métodos basados en redes neuronales profundas.
 
-### Ejercicio 2 — Shaders en Unity
+### Ejercicio 2 — Escena 3D en Unity
 
 La implementación en Unity se centró en la construcción de una experiencia interactiva tridimensional mediante la integración de modelos, animaciones, sistemas de cámara y elementos de interfaz gráfica.
 
