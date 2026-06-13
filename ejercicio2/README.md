@@ -10,38 +10,39 @@ El objetivo de este ejercicio fue desarrollar una escena interactiva de explorac
 
 Durante el desarrollo se utilizaron las siguientes herramientas:
 
-Blender para el modelado 3D de los assets de la escena y la creación del terreno marciano.
-Substance Painter para la generación de materiales y texturas PBR mediante el uso de materiales inteligentes.
-Mixamo para obtener el modelo del personaje y sus animaciones de reposo y caminata.
-Unity como motor principal para la integración de los assets, programación de interacciones y construcción de la experiencia final.
-C# para el desarrollo de los scripts de control y comportamiento de los elementos de la escena.
+- Blender para el modelado 3D de los assets de la escena y la creación del terreno marciano.
+- Substance Painter para la generación de materiales y texturas PBR mediante el uso de materiales inteligentes.
+- Mixamo para obtener el modelo del personaje y sus animaciones de reposo y caminata.
+- Unity como motor principal para la integración de los assets, programación de interacciones y construcción de la experiencia final.
+- C# para el desarrollo de los scripts de control y comportamiento de los elementos de la escena.
 
 ## ¿Cómo se ejecuta la solución?
 
 La solución se ejecuta dentro del motor Unity. Una vez iniciada la escena:
 
-El personaje puede desplazarse utilizando las teclas W, A, S y D.
-La cámara sigue automáticamente al personaje.
-Al mantener presionado el clic derecho del ratón y moverlo, la cámara puede orbitar alrededor del personaje.
-La rueda del ratón permite acercar o alejar la vista.
-Un control deslizante (slider) en la interfaz permite modificar la orientación de un panel solar instalado en la base marciana.
+- El personaje puede desplazarse utilizando las teclas W, A, S y D.
+- La cámara sigue automáticamente al personaje.
+- Al mantener presionado el clic derecho del ratón y moverlo, la cámara puede orbitar alrededor del personaje.
+- La rueda del ratón permite acercar o alejar la vista.
+- Un control deslizante (slider) en la interfaz permite modificar la orientación de un panel solar instalado en la base marciana.
 
 ## ¿Qué resultados se obtuvieron?
 
 Se logró construir una escena completa de exploración espacial ambientada en Marte, incluyendo:
 
-Modelos 3D personalizados creados en Blender.
-Materiales y texturas PBR aplicadas a todos los elementos de la escena.
-Un terreno marciano modelado y texturizado manualmente.
-Un personaje animado con movimientos de reposo y caminata.
-Una cámara interactiva con seguimiento, órbita y zoom.
-Un sistema de interfaz gráfica para controlar la rotación de un panel solar.
+- Modelos 3D personalizados creados en Blender.
+- Materiales y texturas PBR aplicadas a todos los elementos de la escena.
+- Un terreno marciano modelado y texturizado manualmente.
+- Un personaje animado con movimientos de reposo y caminata.
+- Una cámara interactiva con seguimiento, órbita y zoom.
+- Un sistema de interfaz gráfica para controlar la rotación de un panel solar.
 
 El resultado final fue una experiencia interactiva funcional que integra modelado, texturizado, animación y programación dentro de un entorno tridimensional cohesivo.
 
 ## ¿Qué dificultades aparecieron y cómo se resolvieron?
 
-Creación del proyecto en Unity
+### Creación del proyecto en Unity
+
 Se tuvo que cambiar el nombre de la carpeta que contenía el proyecto ya que Unity decía que era muy largo
 
 ### Exportación de modelos entre Blender y Unity
